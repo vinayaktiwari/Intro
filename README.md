@@ -39,6 +39,6 @@
 </p>
   
 ### My Stats :
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{https://www.kaggle.com/vinayaktiwari28}/competition/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{https://www.kaggle.com/vinayaktiwari28}/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{https://www.kaggle.com/vinayaktiwari28}/discussion/light)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/vinayaktiwari28/competition/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/vinayaktiwari28/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/vinayaktiwari28/discussion/light)
