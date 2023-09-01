@@ -35,7 +35,7 @@
   
   ### 🍸 My Skills :
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,arduino,aws,,flask,gcp,github,githubactions,heroku,html,idea,java,linux,mysql,postgres,py,pytorch,raspberrypi,tensorflow,vscode,python,java,matlab,pytorch,tensorflow,flask,streamlit,fastapi,scikit-learn,keras,optaplanner,gurobi,spark,influxdb,mysql,postgresql,docker,mlflow,dvc,airflow,kubernetes,grafana,tensorboard,tableau" />
+    <img src="https://skillicons.dev/icons?i= python,java,matlab,pytorch,tensorflow,flask,streamlit,fastapi,scikit-learn,keras,optaplanner,gurobi,spark,influxdb,mysql,postgresql,docker,mlflow,dvc,airflow,kubernetes,grafana,tensorboard,tableaugit,kubernetes,docker,aws,flask,gcp,github,githubactions,heroku,html,idea,java,linux,mysql,postgres,py,pytorch,raspberrypi,tensorflow,vscode" />
 </p>
   
 ### My Stats :
