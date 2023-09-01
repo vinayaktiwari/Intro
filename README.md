@@ -7,8 +7,8 @@
   <a href="https://www.linkedin.com/in/vinayak-tiwari-3ab777145/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vinayak Tiwari"/>
   </a>
-  <a href="https://twitter.com/SchwiftyCold">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vinayak Tiwari"/>
+  <a href="https://www.kaggle.com/vinayaktiwari28">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Vinayak Tiwari"/>
   </a>
 </div>
 
