@@ -1,57 +1,44 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your GitHub Repository</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f8f8f8;
-            margin: 0;
-            padding: 0;
-        }
-        .intro-container {
-            background-color: #007BFF;
-            color: #fff;
-            text-align: center;
-            padding: 100px 0;
-        }
-        .intro-container h1 {
-            font-size: 2.5rem;
-            margin-bottom: 20px;
-        }
-        .intro-container p {
-            font-size: 1.2rem;
-            margin-bottom: 40px;
-        }
-        .intro-container a {
-            background-color: #fff;
-            color: #007BFF;
-            font-weight: bold;
-            text-decoration: none;
-            padding: 10px 20px;
-            border-radius: 5px;
-            transition: background-color 0.3s;
-        }
-        .intro-container a:hover {
-            background-color: #0056b3;
-            color: #fff;
-        }
-    </style>
-</head>
-<body>
-    <div class="intro-container">
-        <h1>Welcome to Your GitHub Repository</h1>
-        <p>This is a brief introduction to your project.</p>
-        <a href="#section-to-scroll-to">Learn More</a>
-    </div>
+<div align="center">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
+</div>
 
-    <!-- Your content goes here -->
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/schwiftycold/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vinayak Tiwari"/>
+  </a>
+  <a href="https://twitter.com/SchwiftyCold">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vinayak Tiwari"/>
+  </a>
+</div>
 
-    <section id="section-to-scroll-to">
-        <h2>Section Title</h2>
-        <p>This is where you can provide more details about your project.</p>
-    </section>
-</body>
-</html>
+  ### 🖐️ About Me :
+  <table>
+    <tr>
+      <td>Profession</td>
+      <td>Senior Engineer-SDE (AI and Data Science)</td>
+    </tr>
+    <tr>
+      <td>Company</td>
+      <td><a href="https://www.greyorange.com/"><img src="https://cdn.blume.vc/blume/media/images/startups/greyorange/logo/GreyOrange-Robotics.f1670267315.png" width="100"/></a></td>
+    </tr>
+    <tr>
+      <td>Highest Qualification</td>
+      <td><a href="http://www.nsut.ac.in/"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/NSUT_logo.png" width="16"/> M.Tech Signal Processing and Machine Learning</a></td>
+    </tr>
+    <tr>
+      <td>Current Location</td>
+      <td><img src="https://raw.githubusercontent.com/github/explore/6ba838f619f5cf462102ea190d7a154970220c3c/topics/google-maps/google-maps.png" width="16"/> Gurugram, India</td>
+    </tr>
+  </table>
+  
+  
+  ### 🍸 My Skills :
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,arduino,aws,,flask,gcp,github,githubactions,heroku,html,idea,java,linux,mysql,postgres,py,pytorch,raspberrypi,tensorflow,vscode,python,java,matlab,pytorch,tensorflow,flask,streamlit,fastapi,scikit-learn,keras,optaplanner,gurobi,spark,influxdb,mysql,postgresql,docker,mlflow,dvc,airflow,kubernetes,grafana,tensorboard,tableau" />
+</p>
+  
+### My Stats :
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{https://www.kaggle.com/vinayaktiwari28}/competition/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{https://www.kaggle.com/vinayaktiwari28}/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{https://www.kaggle.com/vinayaktiwari28}/discussion/light)
