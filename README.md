@@ -38,7 +38,7 @@
     <img src="https://skillicons.dev/icons?i=python,java,matlab,pytorch,tensorflow,flask,fastapi,mysql,postgresql,docker,git,kubernetes,aws,gcp,github,githubactions,heroku,html,idea,linux,py,raspberrypi,vscode" />
 </p>
   
-### My Stats :
+###  Kaggle Stats :
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/vinayaktiwari28/competition/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/vinayaktiwari28/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/vinayaktiwari28/discussion/light)
